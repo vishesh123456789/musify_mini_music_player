@@ -1,1 +1,1 @@
-# potify_mini_music_player
+# musify_mini_music_player
